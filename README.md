@@ -11,3 +11,8 @@ A list of useful free and open-source programs and services
 
 ## Programming
 * PrivateBin https://privatebin.info/
+
+# MOBILE
+
+## Communication
+* Silence (SMS/MMS encryption mode easy) https://silence.im
