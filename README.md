@@ -12,6 +12,17 @@ A list of useful free and open-source programs and services
 ## Programming
 * PrivateBin https://privatebin.info/
 
+## Project Management
+* OpenProject https://www.openproject.org
+
+### Kanban
+* KanBoard https://kanboard.org/
+* Wekan https://wekan.github.io/
+
+## Secure Communication
+* Mattermost https://mattermost.com/
+* Jitsi Meet https://jitsi.org/
+
 # MOBILE
 
 ## Communication
