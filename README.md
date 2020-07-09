@@ -27,3 +27,4 @@ A list of useful free and open-source programs and services
 
 ## Communication
 * Silence (SMS/MMS encryption mode easy) https://silence.im
+* Briar https://briarproject.org/
